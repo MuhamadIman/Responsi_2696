@@ -1,14 +1,14 @@
 using System;
 
-namespace responsi2705
+namespace responsi2696
 {
     class Program
     {
         static void Main(string[] args)
         {
 
-            Karyawan karyawan = new Karyawan(1, 19112705, "Yudha Tira", 3000000);
-            Karyawan karyawan1 = new Karyawan(2, 19112705, "Pamungkas", 2000000);
+            Karyawan karyawan = new Karyawan(1, 19112696, "Muhamad Iman", 3000000);
+            Karyawan karyawan1 = new Karyawan(2, 19112696, "Nudin", 2000000);
 
             Console.WriteLine("NO \t NIK \t\t NAMA \t\t GAJI");
             Console.WriteLine("------------------------------------------------");
